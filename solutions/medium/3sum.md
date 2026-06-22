@@ -1,11 +1,22 @@
 # 3Sum
 
-URL: https://leetcode.com/problems/3sum/description/
-Difficulty: Medium
-Language: Java
-Tags: Array, Two Pointers, Sorting
-Saved: 2026-06-22T06:02:47.299Z
-Next Review: 2026-06-23T06:02:47.299Z
+## Problem
+
+| Field | Value |
+| --- | --- |
+| Difficulty | Medium |
+| Language | Java |
+| Tags | Array, Two Pointers, Sorting |
+| LeetCode | [3sum](https://leetcode.com/problems/3sum/description/) |
+
+## Review
+
+| Field | Value |
+| --- | --- |
+| Saved | 2026-06-22 |
+| Next Review | 2026-06-23 |
+| Interval | 1 day |
+| Ease Factor | 2.5 |
 
 ## Solution
 
@@ -45,3 +56,9 @@ class Solution {
     }
 }
 ```
+
+## Notes
+
+- Approach:
+- Time Complexity:
+- Space Complexity:
