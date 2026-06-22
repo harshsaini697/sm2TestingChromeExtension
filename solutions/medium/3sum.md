@@ -7,7 +7,7 @@
 | Difficulty | Medium |
 | Language | Java |
 | Tags | Array, Two Pointers, Sorting |
-| LeetCode | [3sum](https://leetcode.com/problems/3sum/description/) |
+| LeetCode | [3sum](https://leetcode.com/problems/3sum/) |
 
 ## Review
 
@@ -55,6 +55,8 @@ class Solution {
         return res;
     }
 }
+
+//something
 ```
 
 ## Notes
