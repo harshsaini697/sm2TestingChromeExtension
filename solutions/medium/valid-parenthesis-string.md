@@ -6,8 +6,8 @@
 | --- | --- |
 | Difficulty | Medium |
 | Language | Java |
-| Tags | String, Dynamic Programming, Stack, Greedy |
-| LeetCode | [valid-parenthesis-string](https://leetcode.com/problems/valid-parenthesis-string/submissions/2053910973/) |
+| Tags | String, Dynamic Programming, Stack, Greedy, Memoization, Recursion, Two Pointers, Counting, Array, Queue, Backtracking, Iterator, Math, Monotonic Stack, Depth-First Search, String Matching, Ordered Set, Simulation, Binary Search, Bit Manipulation, Brainteaser, Divide and Conquer, Tree, Linked List, Hash Table, Binary Tree, Doubly-Linked List, Enumeration, Prefix Sum, Breadth-First Search |
+| LeetCode | [valid-parenthesis-string](https://leetcode.com/problems/valid-parenthesis-string/) |
 
 ## Review
 
